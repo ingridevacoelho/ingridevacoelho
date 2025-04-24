@@ -3,11 +3,11 @@
 Sou **estudante de Ciência de Dados**, apaixonada por transformar dados em insights poderosos. Em busca da minha primeira oportunidade na área, estou focada em aprimorar minhas habilidades com **Power BI**, **Python**, **SQL**, **Excel** e outras ferramentas essenciais para análise e visualização de dados. Busco constantemente aprender e aplicar conceitos que me ajudem a resolver problemas complexos por meio da análise de dados.
 
 ## 🚀 Habilidades
-- **Power BI**: Criação de dashboards e relatórios interativos.
-- **Python**: Conhecimento básico com variáveis, comandos de entrada/saída, estruturas de repetição e introdução ao Pandas para manipulação de dados.
-- **SQL**: Consultas e extração de dados de bancos de dados.
-- **Excel**: Análise de dados, tabelas dinâmicas e gráficos.
-
+- **Power BI**: Conectar dados (Excel, CSV, SQL, Web), Criar gráficos, tabelas e KPIs, Limpeza de dados simples no Power Query, Criação de dashboards interativos, Uso de medidas e colunas calculadas com DAX, Relacionamento entre tabelas (modelo estrela), Segmentações dinâmicas e filtros avançados, Atualização automática de dados (gateway), Drill-through, bookmarks e navegação entre páginas, etc.
+- **Python**: Leitura e manipulação de arquivos (.csv, .xlsx) com Pandas, Conhecimento de estruturas de dados (listas, dicionários, DataFrames), Uso do Jupyter Notebook para prototipagem de análises, Gráficos simples com Matplotlib ou Seaborn, Tratamento de dados faltantes, duplicados, tipos de dados, etc.
+- **SQL**: Extrair dados de tabelas, Filtrar os dados com condições específicas, Organizar os dados por uma ou mais colunas, Unir tabelas e cruzar informações, Agrupar dados, Funções de agregação: SUM, COUNT, AVG, MAX, MIN, entre outras.
+- **Excel**: Fórmulas comuns: SOMA, MÉDIA, SE, PROCV, Formatação condicional, Tabelas dinâmicas, Gráficos, Funções ÍNDICE + CORRESP, DESLOC, Dashboards interativos, Validação de dados, listas suspensas, Power Query, Conexão com bancos de dados e APIs, Macros para tarefas repetitivas, etc.
+- 
 ## 📊 Projetos
 
 ### Alguns dos projetos que desenvolvi no *Power BI*:
@@ -55,16 +55,10 @@ Na segunda etapa, implementei o **Banco de Dados Relacional** com base no Modelo
 
 O script gerado para a implementação pode ser acessado [aqui](https://alunouninter-my.sharepoint.com/:u:/p/3159783/ETolshYnYxpMvyb-olDmjR4BQaeUAwv1uvc03pkQhP614A?e=8Aix5T).
 
+
 ## 📬 Contato
 [LinkedIn](https://linkedin.com/in/evacoelho/)  
 **ingridevacoelho@gmail.com**  
 
-## 🔧 Ferramentas em constante aprendizado
-- **Power BI**  
-- **Python (Pandas, NumPy, Matplotlib)**  
-- **SQL**  
-- **Excel**
-
----
 
 Estou aberta a novas oportunidades, então sinta-se à vontade para entrar em contato! 🚀
